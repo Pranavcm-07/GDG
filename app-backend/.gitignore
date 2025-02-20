@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+.myenv/
+
+# Python Bytecode Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Dependency Files
+.env
+*.env
+
+# Logs & Debug Files
+*.log
+logs/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Build & Distribution Files
+build/
+dist/
+*.egg-info/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Dependency Caches
+pip-wheel-metadata/

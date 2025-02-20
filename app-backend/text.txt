@@ -1,0 +1,2 @@
+1. All user data, including sensitive information, is stored indefinitely without an 
+option for deletion. 
